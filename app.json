@@ -1,34 +1,34 @@
 {
-  "name": "telegram-bot-app",
+  "name": "𝐒𝐎𝐔𝐋 𝐄𝐃𝐈𝐓 𝐆𝐔𝐀𝐑𝐃𝐈𝐀𝐍『 魂 』",
   "description": "Telegram Bot using Pyrogram",
   "repository": "https://github.com/DAXXTEAM/COPYRIGHT2",
   "env": {
     "API_ID": {
-      "description": "Your Telegram API ID",
+      "description": "25064357",
       "required": true
     },
     "API_HASH": {
-      "description": "Your Telegram API Hash",
+      "description": "cda9f1b3f9da4c0c93d1f5c23ccb19e2"",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your Telegram Bot Token",
+      "description": "7306743441:AAESfANKNCBe4PRUawxrt-YeP8tFx0KijAc",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your Bot Username",
+      "description": "soulsguardianbot",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram User ID (Owner)",
+      "description": "1886390680",
       "required": true
     },
     "LOGGER_ID": {
-      "description": "Your Logger Chat ID",
+      "description": "2125082441",
       "required": true
     },
     "MONGO_URL": {
-      "description": "Your MongoDB URL",
+      "description": "mongodb+srv://tanjiro1564:tanjiro1564@cluster0.pp5yz4e.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     }
   },
