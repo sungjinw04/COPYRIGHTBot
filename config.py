@@ -15,7 +15,7 @@ BOT_USERNAME = os.environ.get("soulsguardianbot")
 OWNER_ID = int(os.environ.get("1886390680"))
 # ------------------X------------------------------
 # ------------------------------------------------
-LOGGER_ID = int(os.environ.get("LOGGER_ID"))
+LOGGER_ID = int(os.environ.get("2125082441"))
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL")
+MONGO_URL = os.environ.get("mongodb+srv://tanjiro1564:tanjiro1564@cluster0.pp5yz4e.mongodb.net/?retryWrites=true&w=majority")
 # ------------------------------------------------
