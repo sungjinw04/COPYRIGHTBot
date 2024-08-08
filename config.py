@@ -4,18 +4,18 @@
 import os
 from os import getenv
 # ---------------R---------------------------------
-API_ID = int(os.environ.get("25064357"))
+API_ID = 25064357
 # ------------------------------------------------
-API_HASH = os.environ.get("cda9f1b3f9da4c0c93d1f5c23ccb19e2"")
+API_HASH = "cda9f1b3f9da4c0c93d1f5c23ccb19e2"
 # ----------------D--------------------------------
-BOT_TOKEN = os.environ.get("7306743441:AAESfANKNCBe4PRUawxrt-YeP8tFx0KijAc")
+BOT_TOKEN = "7306743441:AAESfANKNCBe4PRUawxrt-YeP8tFx0KijAc"
 # -----------------A-------------------------------
-BOT_USERNAME = os.environ.get("soulsguardianbot")
+BOT_USERNAME = "soulsguardianbot"
 # ------------------X------------------------------
-OWNER_ID = int(os.environ.get("1886390680"))
+OWNER_ID = 1886390680
 # ------------------X------------------------------
 # ------------------------------------------------
-LOGGER_ID = int(os.environ.get("2125082441"))
+LOGGER_ID = -1002046276298
 # ------------------------------------------------
-MONGO_URL = os.environ.get("mongodb+srv://tanjiro1564:tanjiro1564@cluster0.pp5yz4e.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = "mongodb+srv://tanjiro1564:tanjiro1564@cluster0.pp5yz4e.mongodb.net/?retryWrites=true&w=majority"
 # ------------------------------------------------
